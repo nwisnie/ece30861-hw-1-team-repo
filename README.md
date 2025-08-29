@@ -4,3 +4,4 @@ Repository for Homework 1
 blah blah blah bleh
 
 Giovanni De Geronimo
+Ryken Adams-Barnes
